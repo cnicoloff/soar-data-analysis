@@ -26,6 +26,204 @@
   </Style>
   <Folder>
     <Placemark>
+      <name>14:10:31</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7693,43.0837,95.9</coordinates>
+      </Point>
+      <Snippet>"14_10_31-rot.jpg"</Snippet>
+      <description>Latitude: -73.7693&lt;br&gt;Longitude: 43.0837&lt;br&gt;Elevation: 95.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/14_10_31-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:10:34</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7693,43.0837,96.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141034-391900854-cam1.jpg"</Snippet>
+      <description>Latitude: -73.7693&lt;br&gt;Longitude: 43.0837&lt;br&gt;Elevation: 96.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141034-391900854-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:10:34</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7693,43.0837,96.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141034-391900854-cam0.jpg"</Snippet>
+      <description>Latitude: -73.7693&lt;br&gt;Longitude: 43.0837&lt;br&gt;Elevation: 96.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141034-391900854-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:11:31</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7693,43.0837,95.2</coordinates>
+      </Point>
+      <Snippet>"14_11_31-rot.jpg"</Snippet>
+      <description>Latitude: -73.7693&lt;br&gt;Longitude: 43.0837&lt;br&gt;Elevation: 95.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/14_11_31-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:11:34</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7693,43.0837,96.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141134-391900854-cam1.jpg"</Snippet>
+      <description>Latitude: -73.7693&lt;br&gt;Longitude: 43.0837&lt;br&gt;Elevation: 96.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141134-391900854-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:11:34</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7693,43.0837,96.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141134-391900854-cam0.jpg"</Snippet>
+      <description>Latitude: -73.7693&lt;br&gt;Longitude: 43.0837&lt;br&gt;Elevation: 96.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141134-391900854-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:12:32</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7689,43.0835,92.6</coordinates>
+      </Point>
+      <Snippet>"14_12_32-rot.jpg"</Snippet>
+      <description>Latitude: -73.7689&lt;br&gt;Longitude: 43.0835&lt;br&gt;Elevation: 92.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/14_12_32-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:12:34</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7689,43.0835,92.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141234-391900854-cam1.jpg"</Snippet>
+      <description>Latitude: -73.7689&lt;br&gt;Longitude: 43.0835&lt;br&gt;Elevation: 92.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141234-391900854-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:12:34</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7689,43.0835,92.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141234-391900854-cam0.jpg"</Snippet>
+      <description>Latitude: -73.7689&lt;br&gt;Longitude: 43.0835&lt;br&gt;Elevation: 92.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141234-391900854-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:13:32</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7687,43.0833,93.3</coordinates>
+      </Point>
+      <Snippet>"14_13_32-rot.jpg"</Snippet>
+      <description>Latitude: -73.7687&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 93.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/14_13_32-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:13:34</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7687,43.0833,93.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141334-391900854-cam1.jpg"</Snippet>
+      <description>Latitude: -73.7687&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 93.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141334-391900854-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:13:34</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7687,43.0833,93.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141334-391900854-cam0.jpg"</Snippet>
+      <description>Latitude: -73.7687&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 93.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141334-391900854-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:14:32</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7686,43.0833,92.5</coordinates>
+      </Point>
+      <Snippet>"14_14_32-rot.jpg"</Snippet>
+      <description>Latitude: -73.7686&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 92.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/14_14_32-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:14:34</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7686,43.0833,92.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141434-391900854-cam1.jpg"</Snippet>
+      <description>Latitude: -73.7686&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 92.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141434-391900854-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:14:34</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7686,43.0833,92.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141434-391900854-cam0.jpg"</Snippet>
+      <description>Latitude: -73.7686&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 92.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141434-391900854-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:15:33</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7686,43.0833,91.8</coordinates>
+      </Point>
+      <Snippet>"14_15_33-rot.jpg"</Snippet>
+      <description>Latitude: -73.7686&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 91.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/14_15_33-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:15:34</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7686,43.0833,91.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141534-391900854-cam1.jpg"</Snippet>
+      <description>Latitude: -73.7686&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 91.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141534-391900854-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>14:15:34</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-73.7686,43.0833,91.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-13_141534-391900854-cam0.jpg"</Snippet>
+      <description>Latitude: -73.7686&lt;br&gt;Longitude: 43.0833&lt;br&gt;Elevation: 91.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-13_141534-391900854-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
       <name>14:16:32</name>
       <styleUrl>#pits</styleUrl>
       <Point>
@@ -5778,12 +5976,2236 @@
       <Snippet>"17_10_34-rot.jpg"</Snippet>
       <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_10_34-rot.jpg' width='640' /&gt;</description>
     </Placemark>
+    <Placemark>
+      <name>17:10:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131601-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131601-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:10:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131601-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131601-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:11:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.3</coordinates>
+      </Point>
+      <Snippet>"17_11_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_11_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:11:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131701-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131701-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:11:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131701-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131701-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:12:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.5</coordinates>
+      </Point>
+      <Snippet>"17_12_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_12_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:12:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131801-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131801-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:12:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131801-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131801-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:13:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.9</coordinates>
+      </Point>
+      <Snippet>"17_13_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_13_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:13:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131901-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131901-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:13:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_131901-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_131901-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:14:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.4</coordinates>
+      </Point>
+      <Snippet>"17_14_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_14_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:14:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132001-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132001-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:14:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132001-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132001-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:15:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,112.2</coordinates>
+      </Point>
+      <Snippet>"17_15_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 112.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_15_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:15:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,112.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132101-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 112.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132101-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:15:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,112.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132101-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 112.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132101-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:16:33</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.3</coordinates>
+      </Point>
+      <Snippet>"17_16_33-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_16_33-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:16:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132201-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132201-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:16:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132201-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132201-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:17:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.4</coordinates>
+      </Point>
+      <Snippet>"17_17_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_17_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:17:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132301-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132301-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:17:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132301-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132301-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:18:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.3</coordinates>
+      </Point>
+      <Snippet>"17_18_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_18_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:18:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132401-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132401-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:18:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132401-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132401-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:19:33</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.9</coordinates>
+      </Point>
+      <Snippet>"17_19_33-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_19_33-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:19:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132501-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132501-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:19:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132501-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132501-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:20:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.5</coordinates>
+      </Point>
+      <Snippet>"17_20_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_20_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:20:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132601-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132601-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:20:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132601-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132601-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:21:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.3</coordinates>
+      </Point>
+      <Snippet>"17_21_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_21_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:21:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132701-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132701-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:21:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132701-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132701-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:22:33</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.8</coordinates>
+      </Point>
+      <Snippet>"17_22_33-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_22_33-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:22:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132801-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132801-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:22:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132801-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132801-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:23:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.8</coordinates>
+      </Point>
+      <Snippet>"17_23_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_23_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:23:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132901-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132901-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:23:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_132901-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_132901-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:24:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.9</coordinates>
+      </Point>
+      <Snippet>"17_24_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_24_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:24:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133001-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133001-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:24:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133001-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133001-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:25:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.8</coordinates>
+      </Point>
+      <Snippet>"17_25_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_25_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:25:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133101-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133101-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:25:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133101-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133101-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:26:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,103.3</coordinates>
+      </Point>
+      <Snippet>"17_26_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 103.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_26_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:26:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133201-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133201-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:26:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133201-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133201-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:27:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.7</coordinates>
+      </Point>
+      <Snippet>"17_27_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_27_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:27:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133301-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133301-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:27:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133301-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133301-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:28:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.7</coordinates>
+      </Point>
+      <Snippet>"17_28_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_28_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:28:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133401-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133401-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:28:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133401-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133401-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:29:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.9</coordinates>
+      </Point>
+      <Snippet>"17_29_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_29_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:29:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133501-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133501-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:29:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133501-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133501-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:30:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.4</coordinates>
+      </Point>
+      <Snippet>"17_30_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_30_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:30:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133601-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133601-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:30:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133601-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133601-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:31:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,102.9</coordinates>
+      </Point>
+      <Snippet>"17_31_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 102.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_31_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:31:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,100.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133701-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 100.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133701-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:31:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,100.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133701-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 100.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133701-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:32:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.7</coordinates>
+      </Point>
+      <Snippet>"17_32_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_32_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:32:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133801-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133801-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:32:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133801-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133801-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:33:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.8</coordinates>
+      </Point>
+      <Snippet>"17_33_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_33_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:33:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133901-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133901-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:33:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_133901-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_133901-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:34:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.3</coordinates>
+      </Point>
+      <Snippet>"17_34_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_34_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:34:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134001-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134001-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:34:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134001-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134001-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:35:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.8</coordinates>
+      </Point>
+      <Snippet>"17_35_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_35_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:35:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134101-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134101-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:35:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134101-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134101-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:36:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.0</coordinates>
+      </Point>
+      <Snippet>"17_36_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_36_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:36:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,103.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134201-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 103.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134201-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:36:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,103.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134201-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 103.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134201-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:37:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.5</coordinates>
+      </Point>
+      <Snippet>"17_37_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_37_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:37:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134301-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134301-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:37:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134301-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134301-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:38:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.5</coordinates>
+      </Point>
+      <Snippet>"17_38_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_38_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:38:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134401-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134401-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:38:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134401-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134401-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:39:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,100.2</coordinates>
+      </Point>
+      <Snippet>"17_39_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 100.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_39_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:39:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,100.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134501-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 100.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134501-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:39:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,100.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134501-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 100.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134501-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:40:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,99.7</coordinates>
+      </Point>
+      <Snippet>"17_40_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 99.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_40_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:40:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,96.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134601-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 96.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134601-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:40:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,96.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134601-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 96.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134601-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:41:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,97.2</coordinates>
+      </Point>
+      <Snippet>"17_41_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 97.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_41_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:41:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,101.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134701-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 101.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134701-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:41:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,101.2</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134701-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 101.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134701-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:42:33</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,107.5</coordinates>
+      </Point>
+      <Snippet>"17_42_33-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 107.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_42_33-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:42:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,106.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134801-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 106.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134801-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:42:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,106.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134801-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 106.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134801-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:43:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.4</coordinates>
+      </Point>
+      <Snippet>"17_43_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_43_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:43:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134901-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134901-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:43:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_134901-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_134901-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:44:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,107.7</coordinates>
+      </Point>
+      <Snippet>"17_44_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 107.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_44_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:44:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,106.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135001-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 106.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135001-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:44:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,106.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135001-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 106.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135001-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:45:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,101.8</coordinates>
+      </Point>
+      <Snippet>"17_45_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 101.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_45_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:45:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,101.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135101-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 101.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135101-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:45:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,101.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135101-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 101.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135101-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:46:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,99.9</coordinates>
+      </Point>
+      <Snippet>"17_46_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 99.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_46_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:46:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,97.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135201-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 97.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135201-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:46:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,97.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135201-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 97.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135201-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:47:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,106.7</coordinates>
+      </Point>
+      <Snippet>"17_47_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 106.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_47_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:47:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,107.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135301-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 107.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135301-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:47:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,107.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135301-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 107.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135301-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:48:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.1</coordinates>
+      </Point>
+      <Snippet>"17_48_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_48_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:48:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135401-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135401-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:48:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135401-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135401-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:49:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,112.4</coordinates>
+      </Point>
+      <Snippet>"17_49_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 112.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_49_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:49:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135501-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135501-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:49:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135501-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135501-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:50:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.1</coordinates>
+      </Point>
+      <Snippet>"17_50_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_50_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:50:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,109.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135601-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 109.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135601-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:50:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,109.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135601-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 109.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135601-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:51:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,107.6</coordinates>
+      </Point>
+      <Snippet>"17_51_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 107.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_51_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:51:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,106.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135701-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 106.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135701-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:51:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,106.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135701-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 106.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135701-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:52:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.2</coordinates>
+      </Point>
+      <Snippet>"17_52_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_52_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:52:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135801-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135801-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:52:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.4</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135801-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135801-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:53:33</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.0</coordinates>
+      </Point>
+      <Snippet>"17_53_33-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_53_33-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:53:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135901-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135901-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:53:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_135901-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_135901-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:54:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.3</coordinates>
+      </Point>
+      <Snippet>"17_54_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_54_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:54:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140001-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140001-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:54:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140001-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140001-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:55:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.4</coordinates>
+      </Point>
+      <Snippet>"17_55_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_55_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:55:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140101-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140101-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:55:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140101-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140101-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:56:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.6</coordinates>
+      </Point>
+      <Snippet>"17_56_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_56_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:56:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140201-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140201-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:56:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140201-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140201-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:57:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,112.3</coordinates>
+      </Point>
+      <Snippet>"17_57_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 112.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_57_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:57:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,112.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140301-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 112.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140301-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:57:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,112.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140301-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 112.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140301-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:58:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,116.0</coordinates>
+      </Point>
+      <Snippet>"17_58_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 116.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_58_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:58:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,118.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140401-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 118.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140401-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:58:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,118.1</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140401-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 118.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140401-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:59:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.5899,42.7631,115.8</coordinates>
+      </Point>
+      <Snippet>"17_59_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.5899&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 115.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/17_59_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:59:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.5899,42.7631,113.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140501-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.5899&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 113.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140501-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>17:59:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.5899,42.7631,113.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140501-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.5899&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 113.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140501-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:00:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,113.8</coordinates>
+      </Point>
+      <Snippet>"18_00_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 113.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_00_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:00:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140601-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140601-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:00:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140601-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140601-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:01:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.1</coordinates>
+      </Point>
+      <Snippet>"18_01_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.1 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_01_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:01:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140701-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140701-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:01:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140701-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140701-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:02:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,111.9</coordinates>
+      </Point>
+      <Snippet>"18_02_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 111.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_02_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:02:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140801-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140801-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:02:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140801-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140801-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:03:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,99.5</coordinates>
+      </Point>
+      <Snippet>"18_03_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 99.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_03_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:03:44</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,99.7</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140901-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 99.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140901-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:03:44</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,99.7</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_140901-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 99.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_140901-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:04:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,105.4</coordinates>
+      </Point>
+      <Snippet>"18_04_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 105.4 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_04_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:04:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141002-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141002-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:04:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141002-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141002-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:05:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,100.9</coordinates>
+      </Point>
+      <Snippet>"18_05_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 100.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_05_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:05:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,103.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141102-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 103.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141102-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:05:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,103.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141102-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 103.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141102-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:06:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.763,108.2</coordinates>
+      </Point>
+      <Snippet>"18_06_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 108.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_06_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:06:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141202-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141202-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:06:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.8</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141202-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.8 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141202-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:07:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.9</coordinates>
+      </Point>
+      <Snippet>"18_07_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_07_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:07:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.7</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141302-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141302-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:07:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.7</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141302-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141302-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:08:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.7</coordinates>
+      </Point>
+      <Snippet>"18_08_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_08_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:08:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141402-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141402-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:08:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,104.9</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141402-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 104.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141402-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:09:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.9</coordinates>
+      </Point>
+      <Snippet>"18_09_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.9 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_09_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:09:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141502-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141502-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:09:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,108.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141502-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 108.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141502-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:10:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.2</coordinates>
+      </Point>
+      <Snippet>"18_10_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.2 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_10_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:10:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141602-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141602-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:10:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.3</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141602-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141602-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:11:35</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.5899,42.763,112.7</coordinates>
+      </Point>
+      <Snippet>"18_11_35-rot.jpg"</Snippet>
+      <description>Latitude: -71.5899&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 112.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_11_35-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:11:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.5899,42.763,113.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141702-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.5899&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 113.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141702-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:11:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.5899,42.763,113.0</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141702-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.5899&lt;br&gt;Longitude: 42.763&lt;br&gt;Elevation: 113.0 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141702-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:12:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,110.6</coordinates>
+      </Point>
+      <Snippet>"18_12_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 110.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_12_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:12:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.7</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141802-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141802-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:12:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,109.7</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141802-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 109.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141802-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:13:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.7</coordinates>
+      </Point>
+      <Snippet>"18_13_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.7 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_13_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:13:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141902-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141902-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:13:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,107.6</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_141902-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 107.6 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_141902-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:14:34</name>
+      <styleUrl>#pits</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,106.3</coordinates>
+      </Point>
+      <Snippet>"18_14_34-rot.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 106.3 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/18_14_34-rot.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:14:45</name>
+      <styleUrl>#ms1</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_142002-315370512-cam1.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_142002-315370512-cam1.jpg' width='640' /&gt;</description>
+    </Placemark>
+    <Placemark>
+      <name>18:14:45</name>
+      <styleUrl>#ms2</styleUrl>
+      <Point>
+        <extrude>true</extrude>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>-71.59,42.7631,102.5</coordinates>
+      </Point>
+      <Snippet>"2018-05-14_142002-315370512-cam0.jpg"</Snippet>
+      <description>Latitude: -71.59&lt;br&gt;Longitude: 42.7631&lt;br&gt;Elevation: 102.5 m&lt;br&gt;&lt;img src='https://soarwellesley2018.files.wordpress.com/2018/05/2018-05-14_142002-315370512-cam0.jpg' width='640' /&gt;</description>
+    </Placemark>
   </Folder>
   <gx:Tour>
     <name>Fly with SOAR!</name>
     <gx:Playlist>
+      <gx:SoundCue>
+        <href>https://dl.dropboxusercontent.com/s/27q4z184os7cs1x/the_memory_of_trees.mp3</href>
+      </gx:SoundCue>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-73.7693</longitude>
+          <latitude>43.0837</latitude>
+          <altitude>595.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-73.7693</longitude>
+          <latitude>43.0837</latitude>
+          <altitude>595.2</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-73.7689</longitude>
+          <latitude>43.0835</latitude>
+          <altitude>592.6</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-73.7687</longitude>
+          <latitude>43.0833</latitude>
+          <altitude>593.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-73.7686</longitude>
+          <latitude>43.0833</latitude>
+          <altitude>592.5</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-73.7686</longitude>
+          <latitude>43.0833</latitude>
+          <altitude>591.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7686</longitude>
@@ -5797,7 +8219,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7681</longitude>
@@ -5811,7 +8233,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7681</longitude>
@@ -5825,7 +8247,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7685</longitude>
@@ -5839,7 +8261,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7686</longitude>
@@ -5853,7 +8275,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7698</longitude>
@@ -5867,7 +8289,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7706</longitude>
@@ -5881,7 +8303,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7708</longitude>
@@ -5895,7 +8317,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7715</longitude>
@@ -5909,7 +8331,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7718</longitude>
@@ -5923,7 +8345,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7724</longitude>
@@ -5937,7 +8359,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7729</longitude>
@@ -5951,7 +8373,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7738</longitude>
@@ -5965,7 +8387,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7743</longitude>
@@ -5979,7 +8401,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7746</longitude>
@@ -5993,7 +8415,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7732</longitude>
@@ -6007,7 +8429,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7701</longitude>
@@ -6021,7 +8443,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7676</longitude>
@@ -6035,7 +8457,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7631</longitude>
@@ -6049,7 +8471,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7593</longitude>
@@ -6063,7 +8485,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7553</longitude>
@@ -6077,7 +8499,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7507</longitude>
@@ -6091,7 +8513,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7444</longitude>
@@ -6105,7 +8527,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7374</longitude>
@@ -6119,7 +8541,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7306</longitude>
@@ -6133,7 +8555,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7234</longitude>
@@ -6147,7 +8569,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7161</longitude>
@@ -6161,7 +8583,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.708</longitude>
@@ -6175,7 +8597,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.7014</longitude>
@@ -6189,7 +8611,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6935</longitude>
@@ -6203,7 +8625,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6856</longitude>
@@ -6217,7 +8639,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6782</longitude>
@@ -6231,7 +8653,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6708</longitude>
@@ -6245,7 +8667,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6632</longitude>
@@ -6259,7 +8681,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6546</longitude>
@@ -6273,7 +8695,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6461</longitude>
@@ -6287,7 +8709,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6372</longitude>
@@ -6301,7 +8723,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6278</longitude>
@@ -6315,7 +8737,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6167</longitude>
@@ -6329,7 +8751,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.6035</longitude>
@@ -6343,7 +8765,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.5892</longitude>
@@ -6357,7 +8779,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.5752</longitude>
@@ -6371,7 +8793,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.5618</longitude>
@@ -6385,7 +8807,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.5476</longitude>
@@ -6399,7 +8821,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.5317</longitude>
@@ -6413,7 +8835,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.515</longitude>
@@ -6427,7 +8849,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.4983</longitude>
@@ -6441,7 +8863,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.481</longitude>
@@ -6455,7 +8877,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.463</longitude>
@@ -6469,7 +8891,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.4445</longitude>
@@ -6483,7 +8905,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.4262</longitude>
@@ -6497,7 +8919,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.4062</longitude>
@@ -6511,7 +8933,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.386</longitude>
@@ -6525,7 +8947,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.364</longitude>
@@ -6539,7 +8961,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.3399</longitude>
@@ -6553,7 +8975,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.3135</longitude>
@@ -6567,7 +8989,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.2861</longitude>
@@ -6581,7 +9003,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.2552</longitude>
@@ -6595,7 +9017,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.2245</longitude>
@@ -6609,7 +9031,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.1932</longitude>
@@ -6623,7 +9045,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.1599</longitude>
@@ -6637,7 +9059,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.1241</longitude>
@@ -6651,7 +9073,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.0886</longitude>
@@ -6665,7 +9087,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.0538</longitude>
@@ -6679,7 +9101,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-73.018</longitude>
@@ -6693,7 +9115,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.9823</longitude>
@@ -6707,7 +9129,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.9469</longitude>
@@ -6721,7 +9143,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.9133</longitude>
@@ -6735,7 +9157,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.8817</longitude>
@@ -6749,7 +9171,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.8532</longitude>
@@ -6763,7 +9185,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.8251</longitude>
@@ -6777,7 +9199,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.7959</longitude>
@@ -6791,7 +9213,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.7687</longitude>
@@ -6805,7 +9227,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.7439</longitude>
@@ -6819,7 +9241,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.7206</longitude>
@@ -6833,7 +9255,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.7011</longitude>
@@ -6847,7 +9269,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.6824</longitude>
@@ -6861,7 +9283,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.6632</longitude>
@@ -6875,7 +9297,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.6443</longitude>
@@ -6889,7 +9311,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.6264</longitude>
@@ -6903,7 +9325,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.6079</longitude>
@@ -6917,7 +9339,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.5899</longitude>
@@ -6931,7 +9353,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.5702</longitude>
@@ -6945,7 +9367,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.5512</longitude>
@@ -6959,7 +9381,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.5326</longitude>
@@ -6973,7 +9395,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.5174</longitude>
@@ -6987,7 +9409,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.5025</longitude>
@@ -7001,7 +9423,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.4862</longitude>
@@ -7015,7 +9437,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.4687</longitude>
@@ -7029,7 +9451,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.4551</longitude>
@@ -7043,7 +9465,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.4411</longitude>
@@ -7057,7 +9479,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.4269</longitude>
@@ -7071,7 +9493,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.4129</longitude>
@@ -7085,7 +9507,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.4016</longitude>
@@ -7099,7 +9521,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3905</longitude>
@@ -7113,7 +9535,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3765</longitude>
@@ -7127,7 +9549,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3656</longitude>
@@ -7141,7 +9563,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3576</longitude>
@@ -7155,7 +9577,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3487</longitude>
@@ -7169,7 +9591,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3409</longitude>
@@ -7183,7 +9605,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3346</longitude>
@@ -7197,7 +9619,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3268</longitude>
@@ -7211,7 +9633,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3184</longitude>
@@ -7225,7 +9647,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.3115</longitude>
@@ -7239,7 +9661,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.304</longitude>
@@ -7253,7 +9675,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2966</longitude>
@@ -7267,7 +9689,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2882</longitude>
@@ -7280,8 +9702,14 @@
       <gx:Wait>
         <gx:duration>0</gx:duration>
       </gx:Wait>
+      <gx:SoundCue>
+        <href>https://dl.dropboxusercontent.com/s/dazzp48lxut7037/on_my_way_home.mp3?dl=0</href>
+      </gx:SoundCue>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2836</longitude>
@@ -7295,7 +9723,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2792</longitude>
@@ -7309,7 +9737,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2758</longitude>
@@ -7323,7 +9751,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2702</longitude>
@@ -7337,7 +9765,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2633</longitude>
@@ -7351,7 +9779,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2561</longitude>
@@ -7365,7 +9793,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2499</longitude>
@@ -7379,7 +9807,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2419</longitude>
@@ -7393,7 +9821,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2345</longitude>
@@ -7407,7 +9835,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.229</longitude>
@@ -7421,7 +9849,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.225</longitude>
@@ -7435,7 +9863,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2205</longitude>
@@ -7449,7 +9877,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2134</longitude>
@@ -7463,7 +9891,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.2044</longitude>
@@ -7477,7 +9905,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1981</longitude>
@@ -7491,7 +9919,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1964</longitude>
@@ -7505,7 +9933,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1923</longitude>
@@ -7519,7 +9947,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1847</longitude>
@@ -7533,7 +9961,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1761</longitude>
@@ -7547,7 +9975,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1687</longitude>
@@ -7561,7 +9989,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1669</longitude>
@@ -7575,7 +10003,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1653</longitude>
@@ -7589,7 +10017,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.163</longitude>
@@ -7603,7 +10031,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1597</longitude>
@@ -7617,7 +10045,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1539</longitude>
@@ -7631,7 +10059,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1475</longitude>
@@ -7645,7 +10073,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1422</longitude>
@@ -7659,7 +10087,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1354</longitude>
@@ -7673,7 +10101,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1276</longitude>
@@ -7687,7 +10115,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1167</longitude>
@@ -7701,7 +10129,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.1037</longitude>
@@ -7715,7 +10143,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.0881</longitude>
@@ -7729,7 +10157,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.0704</longitude>
@@ -7743,7 +10171,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.0511</longitude>
@@ -7757,7 +10185,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.0305</longitude>
@@ -7771,7 +10199,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-72.0087</longitude>
@@ -7785,7 +10213,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.9813</longitude>
@@ -7799,7 +10227,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.9527</longitude>
@@ -7813,7 +10241,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.9187</longitude>
@@ -7827,7 +10255,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.8848</longitude>
@@ -7841,7 +10269,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.8509</longitude>
@@ -7855,7 +10283,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.8212</longitude>
@@ -7869,7 +10297,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.794</longitude>
@@ -7883,7 +10311,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.7707</longitude>
@@ -7897,7 +10325,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.7522</longitude>
@@ -7911,7 +10339,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.7343</longitude>
@@ -7925,7 +10353,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.7169</longitude>
@@ -7939,7 +10367,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.7004</longitude>
@@ -7953,7 +10381,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6834</longitude>
@@ -7967,7 +10395,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6696</longitude>
@@ -7981,7 +10409,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6555</longitude>
@@ -7995,7 +10423,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6455</longitude>
@@ -8009,7 +10437,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6367</longitude>
@@ -8023,7 +10451,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6288</longitude>
@@ -8037,7 +10465,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6211</longitude>
@@ -8051,7 +10479,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6129</longitude>
@@ -8065,7 +10493,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.6054</longitude>
@@ -8079,7 +10507,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.5978</longitude>
@@ -8093,7 +10521,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.5913</longitude>
@@ -8107,7 +10535,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.5854</longitude>
@@ -8121,7 +10549,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.582</longitude>
@@ -8135,7 +10563,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.582</longitude>
@@ -8149,7 +10577,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.5842</longitude>
@@ -8163,7 +10591,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.5862</longitude>
@@ -8177,7 +10605,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.5884</longitude>
@@ -8191,7 +10619,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.5889</longitude>
@@ -8205,7 +10633,7 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.59</longitude>
@@ -8219,12 +10647,908 @@
         <gx:duration>0</gx:duration>
       </gx:Wait>
       <gx:FlyTo>
-        <gx:duration>3</gx:duration>
+        <gx:duration>2.32</gx:duration>
         <gx:flyToMode>smooth</gx:flyToMode>
         <Camera>
           <longitude>-71.59</longitude>
           <latitude>42.7631</latitude>
           <altitude>606.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>607.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>607.5</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>609.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>610.4</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>612.2</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>609.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.4</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>606.5</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>607.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>608.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>603.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>609.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>610.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>608.4</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>602.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>604.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>606.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>602.0</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>602.5</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.5</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>600.2</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>599.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>597.2</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>607.5</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>602.4</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>607.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>601.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>599.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>606.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>607.1</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>612.4</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>609.1</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>607.6</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>610.2</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>611.0</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>607.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>610.4</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>609.6</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>612.3</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>616.0</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.5899</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>615.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>613.8</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>604.1</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>611.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>599.5</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>605.4</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>600.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.763</latitude>
+          <altitude>608.2</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>610.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>606.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>608.9</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>602.2</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.5899</longitude>
+          <latitude>42.763</latitude>
+          <altitude>612.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>610.6</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>606.7</altitude>
+          <heading>0.0</heading>
+          <tilt>0.0</tilt>
+        </Camera>
+      </gx:FlyTo>
+      <gx:Wait>
+        <gx:duration>0</gx:duration>
+      </gx:Wait>
+      <gx:FlyTo>
+        <gx:duration>2.32</gx:duration>
+        <gx:flyToMode>smooth</gx:flyToMode>
+        <Camera>
+          <longitude>-71.59</longitude>
+          <latitude>42.7631</latitude>
+          <altitude>606.3</altitude>
           <heading>0.0</heading>
           <tilt>0.0</tilt>
         </Camera>
